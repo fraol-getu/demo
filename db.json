@@ -1,5 +1,5 @@
 {
-  "users": [ {
+  "users":{ {
     "id": "9aa3",
     "name": "kirubel",
     "email": "kirubel@gmail.com"
@@ -19,5 +19,5 @@
     "name": "tsuo",
     "email": "ggg@gmail.com"
   }
-  ]
+}
 }
