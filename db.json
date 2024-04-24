@@ -1,23 +1,64 @@
 {
-  "users":[{
-    "id": "9aa3",
-    "name": "kirubel",
-    "email": "kirubel@gmail.com"
-  },
-  {
-    "id": "811d",
-    "name": "hana",
-    "email": "hana@gm.com"
-  },
-  {
-    "id": "ef40",
-    "name": "jemal",
-    "email": "jemal@gmail.com"
-  },
-  {
-    "id": "e3c5",
-    "name": "tsuo",
-    "email": "ggg@gmail.com"
-  }
+  "employdata": [
+    {
+      "firstname": "good",
+      "lastname": "getu",
+      "email": "frraol03@gmail.com",
+      "dob": "2024-04-02T21:00:00.000Z",
+      "gender": "male",
+      "educationlevel": "Matric",
+      "companyname": "america",
+      "experiance": 5,
+      "salary": 4500,
+      "id": "aa68"
+    },
+    {
+      "id": "aa68",
+      "firstname": "fraol",
+      "lastname": "getu",
+      "email": "frraol03@gmail.com",
+      "dob": "2024-04-02T21:00:00.000Z",
+      "gender": "male",
+      "educationlevel": "Matric",
+      "companyname": "america",
+      "experiance": 5,
+      "salary": 4500
+    },
+    {
+      "id": "aa68",
+      "firstname": "fraol",
+      "lastname": "getu",
+      "email": "frraol03@gmail.com",
+      "dob": "2024-04-02T21:00:00.000Z",
+      "gender": "male",
+      "educationlevel": "Matric",
+      "companyname": "america",
+      "experiance": 5,
+      "salary": 4500
+    },
+    {
+      "id": "aa68",
+      "firstname": "fraol",
+      "lastname": "getu",
+      "email": "frraol03@gmail.com",
+      "dob": "2024-04-02T21:00:00.000Z",
+      "gender": "male",
+      "educationlevel": "Matric",
+      "companyname": "america",
+      "experiance": 5,
+      "salary": 4500
+    },
+    {
+      "id": "bae3",
+      "firstname": "kirine",
+      "lastname": "gizaw",
+      "email": "kirubel@gmail.com",
+      "dob": "2024-04-08T21:00:00.000Z",
+      "gender": "male",
+      "educationlevel": "Degree",
+      "companyname": "abkem",
+      "experiance": 4,
+      "salary": 13000
+    }
   ]
 }
